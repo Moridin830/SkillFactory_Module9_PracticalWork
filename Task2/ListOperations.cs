@@ -144,7 +144,7 @@ namespace Task2
         }
 
         /// <summary>
-        /// Метод, вызывающий все методы обработчика событий, зарегестрированные в "ListComplete"
+        /// Метод, вызывающий все методы обработчика событий, зарегистрированные в "ListComplete"
         /// </summary>
         protected virtual void OnComletionOfInput()
         {
@@ -152,7 +152,7 @@ namespace Task2
         }
 
         /// <summary>
-        /// Метод, вызывающий все методы обработчика событий, зарегестрированные в "SortModeSelected"
+        /// Метод, вызывающий все методы обработчика событий, зарегистрированные в "SortModeSelected"
         /// </summary>
         protected virtual void OnCompletionOfSelection()
         {
@@ -160,7 +160,7 @@ namespace Task2
         }
 
         /// <summary>
-        /// Метод, вызывающий все методы обработчика событий, зарегестрированные в "SortComplete"
+        /// Метод, вызывающий все методы обработчика событий, зарегистрированные в "SortComplete"
         /// </summary>
         protected virtual void OnCompletionOfSort()
         {
